@@ -1,6 +1,9 @@
 # gin-todo
 
-mySqlのサーバー起動、データベース作成までの手順
+### goのファイル実行
+``` go run main.go ```
+---
+### mySqlのサーバー起動、データベース作成までの手順
 
 1. ``` mysql.server start ```
 2. ``` mysql -h localhost --port 3306 -u go_example -p12345!; ```
