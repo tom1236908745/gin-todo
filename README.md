@@ -1,7 +1,7 @@
 # gin-todo
 
 ### goのファイル実行
-``` go run main.go ```
+- ``` go run main.go ```
 ---
 ### mySqlのサーバー起動、データベース作成までの手順
 
